@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 33" width="18" height="33">
+	<title>logofood</title>
+	<defs>
+		<image  width="14" height="29" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAdCAMAAACt1K3WAAAAAXNSR0IB2cksfwAAADxQTFRF/3ts/3Ji/3Nj/3Nj/3ho/35u/3Vk/35w/3Ji/3Nj/3RkAAAA/3Nj/3Zl/3Nj/4CA/4Bw/3do/3Nh/3RiLCB2SQAAABR0Uk5Tuv7+/1vCXsJe/FwA/V3iBMJHZmVi4e7jAAAATklEQVR4nGNkYGT8z8DAyAAkmP4zMbL+Y0AAZkb2P0hcVqxcNiiXEcLlgElTncv5Dcxm4EJ1BjMJXG6aO5JYrsBnfFw0xYKMwPj5CeMCAKX3IkFe0Rx9AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Слой 1" href="#img1" x="2" y="2"/>
+</svg>
